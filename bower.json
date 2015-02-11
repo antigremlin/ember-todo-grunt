@@ -1,0 +1,25 @@
+{
+  "name": "grunt-todo",
+  "version": "0.1.0",
+  "authors": [
+    "Andrey Taranov <taranov.andrey@gmail.com>"
+  ],
+  "description": "Ember todo with Grunt",
+  "keywords": [
+    "sample"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "handlebars": "2",
+    "ember": "1.10"
+  }
+}
